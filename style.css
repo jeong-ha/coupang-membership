@@ -48,13 +48,13 @@ ul, ol{list-style:none}
 .bene_txt{width: 300px; height: 50px; color: black; text-align: center; font-size:1.2rem;}
 
 /*구매혜택*/
-.cnt03{background-image: url(image/pu_bg.jpg);}
+.cnt03{background-image: url(img/pu_bg.jpg);}
 .pur_title{position: absolute!important; top: 120px; left: 160px; background: #4e83d4;}
 .pur_title>img{float:left; width:465px; height:112px;}
 .pur_title>h2{float:left; color: white; font-size: 4rem; line-height:104px;}
 .pur_info{width: 1600px; margin: 0 auto; top: 460px;}
 .pu_row{float: left; width: 50%;}
-.pu_num{background-image: url(image/num.png); width:77px; height:77px; float: left; text-align: center; color: white; font-size: 3rem; line-height: 79px; font-weight: bold;}
+.pu_num{background-image: url(img/num.png); width:77px; height:77px; float: left; text-align: center; color: white; font-size: 3rem; line-height: 79px; font-weight: bold;}
 .pu_t{float: left; font-size:2rem; margin-left:15px; line-height:75px; font-weight:bold;}
 .pu_down{clear:both; width:100%; margin-left: 100px; font-size:1rem; font-weight:bold; }
 .pu{clear:both; margin-bottom:80px;}
@@ -63,14 +63,14 @@ ul, ol{list-style:none}
 
 /*로켓프레시*/
 .content .cnt04{
-    background-image:url(image/fresh_bg.jpg);
+    background-image:url(img/fresh_bg.jpg);
 }
 .left{position:absolute !important; top: 270px; left: 60%; }
 .fresh_title{margin-bottom:30px;}
 .left>ol>li{margin-bottom:10px; font-size:2rem;}
 
 /*쿠팡플레이*/
-.content .cnt05{background-image:url(image/play_bg.jpg);}
+.content .cnt05{background-image:url(img/play_bg.jpg);}
 .cplay_logo{position:absolute !important; top:100px; left:50%; transform:translateX(-50%);}
 .cplay_logo>img{width:370px; height:104px;}
 .cplay_title{text-align:center; top:194px; color:white; font-weight:bold; font-size:2.1rem;}
